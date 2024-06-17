@@ -48,4 +48,4 @@ while True:
         break
 
     response = get_bot_response(user_input)
-    print(f"Bot: {response}")￼Enter
+    print(f"Bot: {response}")
