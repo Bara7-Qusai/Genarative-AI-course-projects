@@ -23,6 +23,7 @@ responses = {
     "goodbye": "Thank you for visiting TechGadget. If you have more questions, feel free to ask. Goodbye!"
 }
 
+
 # Counter to track how many times the bot fails to understand the user's input
 fallback_counter = 0
 
